@@ -1,4 +1,4 @@
-module interface
+module github.com/miklezzzz/k8sfeaturegatefilter
 
 go 1.19
 
